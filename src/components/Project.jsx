@@ -8,7 +8,7 @@ const projects = [
       "A full-stack food delivery application using the MERN stack (MongoDB, Express, React, Node.js). Includes authentication, cart system, order placement, and admin panel for managing menu and users.",
     images: ["/projects/food1.png", "/projects/food2.png"],
     github: "https://github.com/codesrishav",
-    live: "https://yourfoodapp.live",
+    live: "https://food-express-gilt.vercel.app/",
   },
   {
     title: "Weather Forecast App",
@@ -16,7 +16,7 @@ const projects = [
       "A responsive weather forecasting app built with React and Tailwind CSS. Features current conditions, 7-day forecast, hourly data, temperature toggle, and animated weather backgrounds.",
     images: ["/projects/weather1.png", "/projects/weather2.png"],
     github: "https://github.com/codesrishav/weatherforecast",
-    live: "https://weatherapp.live",
+    live: "https://weather-forecast-eight-gules.vercel.app/",
   },
   {
     title: "Online Code Editor",
@@ -24,7 +24,7 @@ const projects = [
       "A real-time online code editor built with HTML, CSS, and JavaScript. Features live preview, syntax highlighting, and download support. Great for prototyping and learning frontend basics.",
     images: ["/projects/code1.png", "/projects/code2.png"],
     github: "https://github.com/yourproject",
-    live: "https://yourproject.live",
+    live: "https://code-editor-frontend-rhf0.onrender.com",
   },
   {
     title: "Excel Analytics Platform",
