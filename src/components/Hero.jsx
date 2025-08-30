@@ -39,10 +39,10 @@ const Hero = () => {
         <div className="space-x-4 mt-4">
           <a
             href="/resume.pdf"
-            download
+            
             className="inline-block px-6 py-2 bg-orange-500 text-white font-semibold rounded-lg shadow hover:bg-orange-600 transition"
           >
-            Download Resume
+            View Resume
           </a>
           <a
             href="#contact"
