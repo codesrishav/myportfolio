@@ -34,7 +34,7 @@ const Navbar = () => {
             Projects
           </a>
           <a href="#techstack" className="hover:text-orange-500 text-gray-700 dark:text-gray-300">
-            Tech Stack
+           About Me
           </a>
           <a href="#contact" className="hover:text-orange-500 text-gray-700 dark:text-gray-300">
             Contact
