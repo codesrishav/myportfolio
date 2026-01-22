@@ -1,6 +1,6 @@
 import React from "react";
 import Typical from "react-typical";
-import profileImg from "../assets/profile.jpg"; // Ensure this exists
+import profileImg from "../assets/profile.jpeg"; // Ensure this exists
 
 const Hero = () => {
   return (
